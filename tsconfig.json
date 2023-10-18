@@ -1,6 +1,13 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true
-  }
+    "strict": true,
+   },
+  "include": [
+    "src/**/*.{js,jsx,ts,tsx}",  
+    "src/**/**/*.{js,jsx,ts,tsx}",  
+    "src/srceens/**/*.{js,jsx,ts,tsx}",  
+  "src/**/*.{js,jsx,ts,tsx}",
+],
+  "exclude": ["node_modules"]
 }
