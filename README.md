@@ -62,6 +62,13 @@ This coding task is designed as a time-bound challenge to assess your ability to
 a feature-rich React Native application. Good luck with your 24-hour challenge!
 
 
+## Screenshots
+
+![App Screenshot 1](./art/1.png)
+![App Screenshot 2](./art/2.png)
+![App Screenshot 3](./art/3.png)
+
+
 
 ## Contact
 
