@@ -64,9 +64,9 @@ a feature-rich React Native application. Good luck with your 24-hour challenge!
 
 ## Screenshots
 
-![App Screenshot 1](./art/1.png)
-![App Screenshot 2](./art/2.png)
-![App Screenshot 3](./art/3.png)
+![App Screenshot 1](./art/1.jpg)
+![App Screenshot 2](./art/2.jpg)
+![App Screenshot 3](./art/3.jpg)
 
 
 
